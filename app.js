@@ -3,7 +3,7 @@ var context = canvas.getContext("2d");
 
 context.beginPath();
 context.font = "16px Arial"
-context.fillText("A sailor's joys are as simple as a cild's.",5,20);
+context.fillText("A sailor's joys are as simple as a child's.",5,20);
 context.fill();
 
 //water
